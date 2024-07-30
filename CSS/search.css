@@ -1,0 +1,16 @@
+.search-results{
+    border: 1px solid #ccc;
+    max-height: 200px;
+    overflow-y: auto;
+}
+
+input[type="text"] {
+    margin-left:500px;
+    padding:10px;
+}
+
+.result-item {
+    margin-left: 500px;
+    padding: 10px;
+    border-bottom: 1px solid #eee;
+}
